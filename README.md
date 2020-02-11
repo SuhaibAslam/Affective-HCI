@@ -1,0 +1,5 @@
+# Using machine learning to develop human-computer interaction (HCI) that adapts to user emotions
+
+This project took a first step towards having HCI that monitors the affective state of users and responds to it adaptively. It used users’ facial expressions, heart rate and galvanic skin response as features in various machine learning algorithms to classify whether they were frustrated, disappointed or neutral during various HCI encounters. Results show that a combination of physiological and facial expression features, rather than individual modalities, yields the best accuracy.
+
+For details on the process and results, see the [research paper](https://www.researchgate.net/publication/335158621_Classification_of_Disappointment_and_Frustration_Elicited_by_Human-Computer_Interaction_Towards_Affective_HCI "affective HCI")
